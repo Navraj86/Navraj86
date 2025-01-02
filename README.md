@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓 B.Tech Student | 🌐 Full-Stack Web Dev (MERN) | 💡 Tech Explorer<br><br>I'm a B.Tech student and a passionate coder who's always up for a new challenge! I love transforming ideas into fully functional web and mobile apps, with a focus on delivering user-friendly experiences and clean, efficient code.<br><br>Full-Stack Developer 🔗 — With the MERN stack, I go from frontend to backend seamlessly.<br>Mobile Developer 📱 — Crafting smooth, cross-platform apps with React Native.<br>Currently, I'm diving deeper into the latest and greatest web technologies to stay ahead of the curve and bring fresh insights into my projects!
+👨‍🎓 B.Tech Student | 🌐 Full-Stack Web Dev (MERN) | 💡 Tech Explorer<br><br>I'm a B.Tech student and a passionate coder who's always up for a new challenge! I love transforming ideas into fully functional web and mobile apps, with a focus on delivering user-friendly experiences and clean, efficient code.<br><br>Full-Stack Developer 🔗 — With the MERN stack, I go from frontend to backend seamlessly.<br>Currently, I'm diving deeper into the latest and greatest web technologies to stay ahead of the curve and bring fresh insights into my projects!
 
 
 ## 🌐 Socials:
