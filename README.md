@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://navraj.dev">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00AEFF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Navraj+%F0%9F%91%8B;Full-Stack+Product+Engineer;Node.js+%2B+TypeScript+%7C+React.js;APIs%2C+web+and+mobile+apps;Open+to+remote+work+and+relocation" alt="Typing intro">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00AEFF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Navraj+%F0%9F%91%8B;Full-Stack+Product+Engineer;TypeScript+%C2%B7+AI+Agents;Web%2C+mobile+and+AI+products;Open+to+relocation+and+remote+work" alt="Typing intro">
 </a>
 </p>
 
@@ -18,11 +18,11 @@
 
 I'm a full-stack product engineer working mainly in **Node.js, TypeScript and React.js**. I build APIs, data models, web and mobile apps, AI features like RAG and LLM evaluations, and the pipelines that ship them.
 
-For over a year I worked on **[gammon.gg](https://gammon.gg)**, a live backgammon tournament platform also used at the World Championship, on a remote contract. I joined as a full-stack developer and moved to backend engineer in June 2026. Along the way I:
+For over a year I worked on **[gammon.gg](https://gammon.gg)**, a live backgammon tournament platform also used at the World Championship, on a remote contract. I joined as a full-stack developer, part-time during my final year of college, and moved to full-time backend engineer in June 2026. Along the way I:
 
-- designed the tournament engine from scratch: 130+ endpoints for elimination, consolation, rebuy, round-robin and league formats, prize pools and Elo ratings
+- designed the tournament engine from scratch: 130+ endpoints for five tournament formats, prize pools and Elo ratings
 - built the admin panel organizers use to run events, plus the web and mobile apps players use to follow them
-- shipped 31 feature PRs (73% of commits) and wrote 2,300+ automated tests (78% line coverage)
+- wrote 2,300+ automated tests (78% line coverage) that gate every PR
 - built the release pipeline with staging and production deploys and automatic rollback
 - hardened the production servers and replaced log digging over SSH with centralized logging
 
@@ -33,7 +33,7 @@ I use Claude Code and Cursor every day and review every change before it merges.
 ```ts
 const navraj = {
   role: "Full-Stack Product Engineer",
-  location: "Punjab, India · open to remote work and relocation",
+  location: "Punjab, India · open to relocation and remote work",
   languages: ["TypeScript", "JavaScript", "SQL"],
   focus: ["APIs", "Databases", "Web & mobile apps", "AI features (RAG, LLM evals)", "CI/CD & Deployment"],
   education: "BTech CSE, 2026",
@@ -43,7 +43,7 @@ const navraj = {
 
 ### Projects
 
-- **[Groundline](https://github.com/Navraj86/groundline)**: multi-tenant AI customer support SaaS. RAG answers from each company's own docs, agent tool calling with human approval, and LLM evaluations. Next.js, NestJS, FastAPI and pgvector, hosted on AWS. [Live](https://groundline-lemon.vercel.app)
+- **[Groundline](https://github.com/Navraj86/groundline)**: an AI customer support agent. RAG answers from each company's own docs, agent tool calling with human approval, and LLM evaluations. Next.js, NestJS, FastAPI and pgvector, hosted on AWS. [Live](https://groundline-lemon.vercel.app)
 - **[Sportz](https://github.com/Navraj86/sportz-websockets)**: real-time match commentary with an Express.js and WebSocket backend on PostgreSQL and a Next.js match centre. [Live](https://frontend-lac-phi-44.vercel.app)
 - **[Imagify](https://github.com/Navraj86/Imagify)**: AI image generation SaaS where each generation reserves a credit and refunds it if the image API fails. [Live](https://imagify-nu-six.vercel.app)
 - **[Subscription Tracker API](https://github.com/Navraj86/subscription-tracker)**: REST API that uses durable workflows to email renewal reminders.
