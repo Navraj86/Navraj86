@@ -16,7 +16,7 @@
 
 ### About me
 
-I'm a full-stack product engineer working mainly in **Node.js, TypeScript and React.js**. I build APIs, data models, web and mobile apps, and the pipelines that ship them.
+I'm a full-stack product engineer working mainly in **Node.js, TypeScript and React.js**. I build APIs, data models, web and mobile apps, AI features like RAG and LLM evaluations, and the pipelines that ship them.
 
 For over a year I worked on **[gammon.gg](https://gammon.gg)**, a live backgammon tournament platform also used at the World Championship, on a remote contract. I joined as a full-stack developer and moved to backend engineer in June 2026. Along the way I:
 
@@ -35,7 +35,7 @@ const navraj = {
   role: "Full-Stack Product Engineer",
   location: "Punjab, India · open to remote work and relocation",
   languages: ["TypeScript", "JavaScript", "SQL"],
-  focus: ["APIs", "Databases", "Web & mobile apps", "CI/CD & Deployment"],
+  focus: ["APIs", "Databases", "Web & mobile apps", "AI features (RAG, LLM evals)", "CI/CD & Deployment"],
   education: "BTech CSE, 2026",
   status: "Available immediately for SDE-1 full-stack or backend roles",
 };
@@ -43,6 +43,7 @@ const navraj = {
 
 ### Projects
 
+- **[Groundline](https://github.com/Navraj86/groundline)**: multi-tenant AI customer support SaaS. RAG answers from each company's own docs, agent tool calling with human approval, and LLM evaluations. Next.js, NestJS, FastAPI and pgvector, hosted on AWS. [Live](https://groundline-lemon.vercel.app)
 - **[Sportz](https://github.com/Navraj86/sportz-websockets)**: real-time match commentary with an Express.js and WebSocket backend on PostgreSQL and a Next.js match centre. [Live](https://frontend-lac-phi-44.vercel.app)
 - **[Imagify](https://github.com/Navraj86/Imagify)**: AI image generation SaaS where each generation reserves a credit and refunds it if the image API fails. [Live](https://imagify-nu-six.vercel.app)
 - **[Subscription Tracker API](https://github.com/Navraj86/subscription-tracker)**: REST API that uses durable workflows to email renewal reminders.
@@ -51,7 +52,7 @@ const navraj = {
 ### Tech I use
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,ts,js,express,react,nextjs,tailwind,postgres,mongodb,redis,docker,nginx,aws,cloudflare,linux,git,vitest&perline=9" alt="Tech stack">
+<img src="https://skillicons.dev/icons?i=nodejs,ts,js,py,express,nestjs,fastapi,react,nextjs,tailwind,postgres,prisma,mongodb,redis,docker,kubernetes,terraform,aws,githubactions,cloudflare,nginx,linux,git,vitest&perline=12" alt="Tech stack">
 </p>
 
 <p align="center">Feel free to reach out on <a href="https://www.linkedin.com/in/navraj86/">LinkedIn</a> or by <a href="mailto:navrajbanga86@gmail.com">email</a>. Always happy to chat.</p>
